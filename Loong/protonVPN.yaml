@@ -1,5 +1,6 @@
 payload:
  - DOMAIN-SUFFIX,protonvpn.com
+ - DOMAIN-SUFFIX,protonvpn.net
  - DOMAIN-SUFFIX,mail-europe.com
  - DOMAIN-SUFFIX,slmails.com
  - DOMAIN-SUFFIX,ip.me
